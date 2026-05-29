@@ -1,0 +1,15 @@
+const List<String> jordanCities = [
+  'all',
+  'Amman',
+  'Zarqa',
+  'Irbid',
+  'Aqaba',
+  'Salt',
+  'Madaba',
+  'Jerash',
+  'Ajloun',
+  'Mafraq',
+  'Karak',
+  'Tafilah',
+  'Ma\'an',
+];
